@@ -1,0 +1,8 @@
+import koszon
+import feladatsor
+import harmasFeladat
+import negyesFeladat
+import otodikFeladat
+import hatodikFeladat
+import hetedikFeladat
+import tizenegyedikFeladat
